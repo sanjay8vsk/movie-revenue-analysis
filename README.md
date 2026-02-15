@@ -1,5 +1,3 @@
-# movie-revenue-analysis
-
 # 🎬 Movie Revenue Analysis  
 End-to-End Data Science Project | Regression Modeling | Feature Importance
 
